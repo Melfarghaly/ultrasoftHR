@@ -1,0 +1,15 @@
+/node_modules
+/public/hot
+
+
+
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+.env
+/vendor
+/storage/logs
+.scribe
+/ultra-soft-erp.zip

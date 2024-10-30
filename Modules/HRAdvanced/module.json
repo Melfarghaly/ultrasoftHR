@@ -1,0 +1,11 @@
+{
+    "name": "HRAdvanced",
+    "alias": "hradvanced",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\HRAdvanced\\Providers\\HRAdvancedServiceProvider"
+    ],
+    "files": []
+}
