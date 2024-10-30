@@ -1,4 +1,4 @@
-/node_modules
+
 /public/hot
 
 
@@ -9,7 +9,7 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 .env
-/vendor
+
 /storage/logs
 .scribe
 /ultra-soft-erp.zip
